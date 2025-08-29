@@ -2,7 +2,7 @@
   "name": "Syrentha",
   "description": "Javascript WhatsApp bot made by Faizan",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
-  "keywords": ["MALVIN XD"],
+  "keywords": ["Syrentha"],
   "success_url": "/",
 
     "stack": "container",
@@ -33,7 +33,7 @@
    },
      "DESCRIPTION": {
       "description": "add caption for menu and other",
-      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Syrentha*",
+      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Faizan*",
       "required": true
       
    }, 
