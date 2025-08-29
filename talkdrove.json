@@ -1,11 +1,11 @@
 
 {
-"bot-name": "MALVIN-XD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+"bot-name": "Syrentha",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Syrentha",
   "logo": "https://files.catbox.moe/juxfce.jpg",
   "keywords": ["bot"],
-  "documentation-link": "https://malvinxd-pairsession.onrender.com/",
-    "owner-verification":"malvink003@gmail.com",
+  "documentation-link": "https://www.youtube.com/@OtakiverseInfinity/",
+    "owner-verification":"syrenthaofficial@gmail.com",
   
     "env": {
       "SESSION_ID": {
