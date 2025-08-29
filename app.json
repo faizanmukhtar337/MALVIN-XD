@@ -1,6 +1,6 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
-  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+  "name": "Syrentha",
+  "description": "Javascript WhatsApp bot made by Faizan",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
   "keywords": ["MALVIN XD"],
   "success_url": "/",
@@ -14,9 +14,9 @@
         
     },
       "BOT_NAME": {
-        "description": "write here your bot name.",
+        "description": "Syrentha.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ xᴅ" 
+        "value": "Syrentha" 
         
     },
      "PREFIX": {
@@ -33,19 +33,19 @@
    },
      "DESCRIPTION": {
       "description": "add caption for menu and other",
-      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
+      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Syrentha*",
       "required": true
       
    }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "+923226070203"
       "required": true
       
    },
     "OWNER_NAME": {
-      "description": "Enter your name here",
+      "description": "Faizan",
       "value": "",
       "required": true
     }
